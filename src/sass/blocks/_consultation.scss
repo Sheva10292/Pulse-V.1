@@ -1,0 +1,13 @@
+.consultation {
+    min-height: 680px;
+    padding: 102px 0 108px 0;
+    background: url(../../img/bg/bg-cross.jpg) center (center/cover) no-repeat;
+    background-attachment: fixed;
+    &__descr {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 30px;
+        color: #FFFFFF;
+        margin-top: 10px;
+    }
+}
